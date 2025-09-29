@@ -146,7 +146,7 @@ LLM научилась выдавать краткие и стилизованн
 
 1. Установите зависимости:
 ```bash
-pip install pandas sklearn torch transformers datasets tqdm torchmetrics evaluate unsloth
+pip install pandas scikit-learn torch transformers datasets tqdm torchmetrics evaluate unsloth
 
 # Also get the latest nightly Unsloth!
 pip uninstall unsloth -y && pip install --upgrade --no-cache-dir --no-deps git+https://github.com/unslothai/unsloth.git
